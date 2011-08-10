@@ -5,8 +5,9 @@
 <?php $this->load->view('common/head_body') ?>	
 <?php $this->load->view('common/beforecontent_view') ?>	
 	<!--content goes here -->   					
-	Sorry still Under Construction
 	
+	Sorry still Under Construction
+	zardd.
 	
 	<!-- End of Content -->   					
 <?php $this->load->view('common/aftercontent_view') ?>	
