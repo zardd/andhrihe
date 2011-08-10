@@ -5,7 +5,7 @@
 <?php $this->load->view('common/head_body') ?>	
 <?php $this->load->view('common/beforecontent_view') ?>	
 	<!--content goes here -->   					
-	Welcome to CodeIgniter
+	Sorry still Under Construction
 	
 	
 	<!-- End of Content -->   					
