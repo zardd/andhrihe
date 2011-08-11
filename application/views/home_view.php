@@ -7,6 +7,7 @@
 <?php $this->load->view('common/beforecontent_view') ?>	
 	<!--content goes here -->   	
 	Sorry still Under Construction.
+	not added
 	Please wait till end of august.
 	zardd.
 	
